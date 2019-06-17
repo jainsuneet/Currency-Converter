@@ -27,7 +27,6 @@ npm run lint
 ```
 
 ## CurrencyConverter Component Description
-***
 
 ### Imports
 
